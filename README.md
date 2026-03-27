@@ -1,8 +1,8 @@
-# Retail growth opportunities and revenue drivers metabase
+# Retail growth opportunities and revenue drivers analysis using metabase
 End-to-end retail analytics project using SQL and Metabase to analyse customer behaviour, revenue drivers, and identify actionable growth opportunities.
 Retail Performance & Growth Opportunities
 
-# Overview
+## Overview
 This project presents an end-to-end retail analytics solution designed to evaluate business performance and identify actionable growth opportunities. Using SQL and Metabase, the analysis moves beyond descriptive reporting to a structured growth driver framework, enabling data-driven strategic decision-making.
 
 ## The work is divided into two parts:
@@ -11,7 +11,7 @@ This project presents an end-to-end retail analytics solution designed to evalua
 
 * Part II – Growth Model & Strategy: Decomposing revenue into drivers and identifying scalable opportunities
 
-# Business Objective
+## Business Objective
 
 The objective of this project is to support senior stakeholders in answering:
 
@@ -21,7 +21,7 @@ The objective of this project is to support senior stakeholders in answering:
 
 * How can customer behaviour be leveraged to increase sales?
 
-# Dataset & Data Preparation
+## Dataset & Data Preparation
 
 The dataset consists of transactional retail data including:
 
@@ -35,7 +35,7 @@ The dataset consists of transactional retail data including:
 
 * Country information
 
-# Data Cleaning Steps
+## Data Cleaning Steps
 
 To ensure analytical accuracy:
 
@@ -47,11 +47,11 @@ To ensure analytical accuracy:
 
 * Ensured consistent aggregation at basket and customer level
 
-# Part I – Performance Analysis
+## Part I – Performance Analysis
 
 This section focuses on answering targeted business questions.
 
-# Key Questions Addressed
+## Key Questions Addressed
 
 1. What share of customers transacted in more than one category (Dec 2022)?
 
@@ -59,7 +59,7 @@ This section focuses on answering targeted business questions.
 
 3. Which L2 category has shown the fastest growth since Jan 2022?
 
-# Key Insights
+## Key Insights
 
 * Nearly half of customers (~48%) engaged across multiple categories, indicating strong cross-sell potential
 
@@ -67,7 +67,7 @@ This section focuses on answering targeted business questions.
 
 * Several L2 categories demonstrated high growth trajectories, highlighting emerging demand segments
 
-# Part II – Growth Model & Strategic Analysis
+## Part II – Growth Model & Strategic Analysis
 
 A structured growth framework was developed to diagnose performance:
 
@@ -107,7 +107,7 @@ Performance evaluated across:
 
 * Channel-level monetisation (Sales per Customer) to identify high-value segments
 
-# Key Business Insights
+## Key Business Insights
 
 * Revenue growth is primarily driven by customer acquisition, with limited expansion in basket size
 
@@ -119,7 +119,7 @@ Performance evaluated across:
 
 * Channel performance varies significantly in terms of customer value (SPC)
 
-# Strategic Recommendations
+## Strategic Recommendations
 1. Scale High-Growth Categories
 
 Invest in categories with strong growth but lower current share to maximise future revenue potential.
@@ -136,7 +136,7 @@ Implement bundling strategies and cross-category promotions to improve Items per
 
 Focus on channels with higher customer value while improving monetisation in underperforming channels.
 
-# Dashboard Design & Interactivity
+## Dashboard Design & Interactivity
 
 The Metabase dashboards were designed with a clear storytelling structure:
 
